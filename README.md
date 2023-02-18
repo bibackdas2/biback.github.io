@@ -7,11 +7,7 @@
 
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
 
-	<!-- This site is optimized with the Yoast SEO plugin v20.1 - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>TechWelkin - Be Tech Savvy</title>
 	<meta name="description" content="TechWelkin publishes blogging, SEO, Internet, Software and Hardware related tips and tutorials. We also publish career and personal development articles.">
-	<link rel="canonical" href="https://techwelkin.com/">
-	<link rel="next" href="https://techwelkin.com/page/2">
 	<meta property="og:locale" content="en_US">
 	<meta property="og:type" content="website">
 	<meta property="og:title" content="TechWelkin">
